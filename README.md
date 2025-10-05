@@ -4,7 +4,7 @@ This repository contains over 120+ interview questions for Large Language Models
 
 
 
-
+<img src="interviewprep.jpg" alt="Image Description" style="width: 30%;">
 ![Image Description](interviewprep.jpg){width=200px}
   
 ---
