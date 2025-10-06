@@ -2,6 +2,8 @@
 
 This repository contains over 120+ interview questions for Large Language Models (LLM) used by top companies like OpenAI, Anthropic, Google, NVIDIA, Meta, Microsoft, and Fortune 500 companies. Updated with the latest 2025 trends including advanced transformer architectures, agent systems, and ethical AI considerations. Explore questions curated with insights from real-world scenarios, organized into 15 categories to facilitate learning and preparation.
 
+I Had prepared the answer for this book here https://aioffer.gumroad.com/l/llm-interview-book
+
 <img src="interviewprep.jpg" alt="Image Description" style="width: 30%;"><img src="Markmap.jpeg" alt="Image Description" style="width: 60%;">
 
 ---
